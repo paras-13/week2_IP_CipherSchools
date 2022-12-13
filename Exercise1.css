@@ -1,0 +1,13 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color:rgb(159, 129, 129);
+}
+.container{
+    background-color:rgb(110, 84, 84);
+}
+.heading{
+    color:rgb(48, 176, 123)
+}
+span{
+    background-color:aqua
+}
